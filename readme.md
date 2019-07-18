@@ -12,6 +12,6 @@
 
 **Today's Progress:** Develop an automated certification for people who joined the design your dream camp 2019 
 
-**Thoughts:** Learning how to download the canvas as an image with custom fillText inserting. However, DPI's background in canvas is not quite worked well when rendering on webpage. I decided to remove canvas from DOM and give it created when download button trigged.
+**Thoughts:** Learning how to download the canvas as an image with custom fillText inserting. However, DPI's background in canvas is not quite worked well when rendering on webpage. It was blurred. I decided to remove canvas from DOM and give it created when download button trigged.
 
 **Link to work:** [Design Your Dream Certificate](https://design-your-dream-certificate.firebaseapp.com/)

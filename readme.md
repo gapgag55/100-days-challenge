@@ -8,7 +8,7 @@
 
 **Link to work:** [Anti GIFs - waiting for publishing](https://github.com/gapgag55/100-days-challenge/tree/master/remove-gif-chrome-extenstion)
 
-## Day 2: Julu 18, Thursday
+## Day 2: July 18, Thursday
 
 **Today's Progress:** Develop an automated certification for people who joined the design your dream camp 2019 
 

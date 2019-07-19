@@ -20,6 +20,6 @@
 
 **Today's Progress:** Installing and testing Libra
 
-**Thoughts:** In generally, I tried to install Libra on ubuntu on docker in my Macbook. It should be worked on my computer but disk is full. I decided move to create ubuntu droplet in DigitalOcean. In my opinion, Testnet is a libra network similar to libra swarm which is a local validator node for Libra core. The transaction's Libra is still not work on Testnet when transferring money from one account to another account whereas Libra swarm is worked. There are many problems when installing libra core. However, the final solution is here [Transferring Money with Libra Swarm](https://github.com/libra/libra/issues/201#issuecomment-504784229) and [Official Tutorial](https://developers.libra.org/docs/my-first-transaction)
+**Thoughts:**  In general, I tried to install Libra on ubuntu on docker in my Macbook. It should be worked on my computer but the disk is full. I decided to create an ubuntu droplet in DigitalOcean. In my opinion, Testnet is a libra network similar to libra swarm which is a local validator node for Libra core. The transaction's Libra is still not working on Testnet when transferring money from one account to another account whereas Libra swarm is worked. There are many problems when installing the libra core. However, the final solution is here [Transferring Money with Libra Swarm](https://github.com/libra/libra/issues/201#issuecomment-504784229) and [Official Tutorial](https://developers.libra.org/docs/my-first-transaction)
 
 **Link to work:** -

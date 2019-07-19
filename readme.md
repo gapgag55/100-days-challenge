@@ -15,3 +15,11 @@
 **Thoughts:** Learning how to download the canvas as an image with custom fillText inserting. However, DPI's background in canvas is not quite worked well when rendering on webpage. It was blurred. I decided to remove canvas from DOM and give it created when download button trigged.
 
 **Link to work:** [Design Your Dream Certificate](https://design-your-dream-certificate.firebaseapp.com/)
+
+## Day 3: July 19, Friday
+
+**Today's Progress:** Installing and testing Libra
+
+**Thoughts:** In generally, I tried to install Libra on ubuntu on docker in my Macbook. It should be worked on my computer but disk is full. I decided move to create ubuntu droplet in DigitalOcean. In my opinion, Testnet is a libra network similar to libra swarm which is a local validator node for Libra core. the transaction's Libra is still not work on Testnet when transferring money from one account to another account whereas Libra swarm is worked. There are many problems when installing libra core. However, the final solution is here [Transferring money with Libra swarm](https://github.com/libra/libra/issues/201#issuecomment-504784229)
+
+**Link to work:** -

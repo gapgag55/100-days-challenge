@@ -34,6 +34,6 @@
 3. Create type of Request and Response for each endpoint
 4. Implement business logic to endpoint
 
-In conclusion, Go kit can do for logging, instrumenting, service discovery, circuitebreaker, ratelimit, load balancing, and more...
+In conclusion, Go kit can do for logging, metric, tracing, circut breaker, service discovery, serialization, authentication, and more...
 
 **Link to work:** [Stringsvc - Microservice](https://github.com/gapgag55/100-days-challenge/tree/master/stringsvc)
